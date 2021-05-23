@@ -2,12 +2,9 @@
 
 Olá! 
 
-A criação do clone da páginas do instragram comecou com as atividades complementares da plataforma de ensino digital da DIO (Digital Innovation One).
+A criação do clone da páginas do instragram começou com as atividades complementares da plataforma de ensino digital da DIO (Digital Innovation One). O curso Recriando página inicial do Instagram foi instruido pela Grabriela Pinheiros no bootcamp HTML Web Developer.
 
-Os objetivos foram:
-  Colocar em prática tudo que foi estudado em 6 meses.
-  Aumentar a capacidade de análise dos elementos da página:
-      Estruturação básica da página
-      Utilização de comando CSS mais robustos
-      Aperfeiçoamento de harmonia do site
+Objetivo foram:
+  Clonar a página inicial do instagram como forma de treinamento para utilização das linguagens de programação HTMl5, CSS3 e JavaScript.
+ 
   
